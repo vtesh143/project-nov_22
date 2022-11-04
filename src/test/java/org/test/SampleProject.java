@@ -4,9 +4,8 @@ import org.testng.annotations.Test;
 
 public class SampleProject {
 	@Test
-	  private void TestA1() {
-		System.out.println("testA1");
-		
+	  private void testA1() {
+		 System.out.println("Test A1");
 
 	}
 
